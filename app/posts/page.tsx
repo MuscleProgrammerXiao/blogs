@@ -1,5 +1,4 @@
 import PostsList from "@/components/posts-list";
-import Form from '@/components/form';
 import { Suspense } from "react";
 
 export default async function Page() {
@@ -9,7 +8,6 @@ export default async function Page() {
       <Suspense fallback="Loading...">
         <PostsList />
       </Suspense>
-      <Form />
     </main>
   )
 }
