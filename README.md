@@ -10,8 +10,11 @@
 
 ### 笔记
 
-##### [prisma](https://www.prisma.io/docs/orm/more/help-and-troubleshooting/help-articles/nextjs-prisma-client-dev-practices)
+##### 数据库[prisma](https://www.prisma.io/docs/orm/more/help-and-troubleshooting/help-articles/nextjs-prisma-client-dev-practices)
 npm i prisma -save-dev  安装数据库
 npx prisma init --datasource-provider sqlite 初始化数据库
 npx prisma db push 更新了数据库
 npx prisma studio 打开控制面板
+
+##### 部署到[vercel](https://vercel.com)
+npm run build
