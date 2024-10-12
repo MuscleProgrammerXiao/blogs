@@ -1,5 +1,5 @@
 # 使用next.js搭建一个免费的博客网站
-你好！这是我用Next.js搭建的第一个项目[xiao-blogs💡](https://blogs-sable-zeta.vercel.app)，访问🪜[原作者视频地址](https://www.youtube.com/watch?v=y7JCnfbETPs)
+你好！这是我用Next.js搭建的第一个项目[blogs💡](https://blogs-sable-zeta.vercel.app)，访问🪜[原作者视频地址](https://www.youtube.com/watch?v=y7JCnfbETPs)
 ![alt text](image.png)
 
 >完成项目的过程中，我掌握了 `react`，`next.js`，`typeScript`，`tailwindcss`，[`prisma(数据库)`](https://www.prisma.io/docs/orm/more/help-and-troubleshooting/help-articles/nextjs-prisma-client-dev-practices) [`kinde(登录授权)`](https://kinde.com)，[`vercel(部署)`](https://vercel.com/)的部分知识🍻
